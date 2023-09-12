@@ -101,9 +101,9 @@ yarn dev
 
 ### Application
 
-![MainPage](./screeshots/1.jpg)
-![MainPage](./screeshots/3.jpg)
-![MainPage](./screeshots/3.jpg)
+![MainPage](https://github.com/HamzaAshfaq01/UserVideoHub/raw/main/screeshots/1.jpg)
+![MainPage](https://github.com/HamzaAshfaq01/UserVideoHub/raw/main/screeshots/2.jpg)
+![MainPage](https://github.com/HamzaAshfaq01/UserVideoHub/raw/main/screeshots/3.jpg)
 
 ## License
 
